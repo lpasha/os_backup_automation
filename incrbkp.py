@@ -5,7 +5,6 @@
 # Creation Date        : 29-Jun-2016
 # Description          : An incremental backup system that uses rsync 
 #                        To take backups.
-# Copyright (c) 2016 UCM
 ########################################################################
 import sys
 import string
